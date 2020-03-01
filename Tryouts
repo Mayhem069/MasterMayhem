@@ -1,0 +1,17 @@
+<html>
+    <head>
+       <title>firstpage</title>
+    </head>
+    <body>
+      <p>this is regular text</p>
+      <p><b>bold text</b></p>
+      <p><big>this is big test</big></p>
+      <p><i>this is italics</i></p>
+      <p><small>this is small test</small></p>
+      <p><strong>this is strong test</stromg></p>
+      <p><sub>this is subscript</sub></p>
+      <p><sup>this is superscript</sup></p>
+      <p><in>inserted text</ins></p>
+      <p><del>deleted text</del></p>
+    </body>
+ </html>   
